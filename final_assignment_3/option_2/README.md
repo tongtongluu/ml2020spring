@@ -143,5 +143,6 @@ cluster 14 highlight from dark series
 ![228](img_small/228_small.jpg)
 ![230](img_small/230_small.jpg)
 
+I like the second cluster, (cluster1) which shows the features of the pictures very clearly, all completed lines tangled together. I guess the model speficy the messy-ish look as the common feature for this group
 
 
