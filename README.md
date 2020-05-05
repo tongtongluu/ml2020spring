@@ -6,15 +6,15 @@
 ## Assignment 1: Wikipedia Toxic comments
 
 
-The assignment is found [here](https://github.com/acdreyer/machine-learning/tree/master/1stAssignment)
+The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/master/final_assignment_1)
 
 
 ## Assignment 2: Airplane Image Classification
 
 
 
-The assignment is found [here](https://github.com/acdreyer/machine-learning/tree/master/2ndAssignment)
+The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/master/final_assignment_2/code)
 
 
 ## Assignment 3: Option 2 art works 
-The assignment is found [here](https://github.com/acdreyer/machine-learning/tree/master/2ndAssignment)
+The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/master/final_assignment_3)
