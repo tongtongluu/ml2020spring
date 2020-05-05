@@ -1,4 +1,4 @@
-# Machine Learning, Spring 2020
+# Machine Learning, Spring_2020
 
 [[syllabus](https://docs.google.com/document/d/1RSUjPPu9cHtTA_8s650-7XTAfLRsCuN_5tqhjQHdcP0/edit?usp=sharing)] *newschool.edu access only*
 
