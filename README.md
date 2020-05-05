@@ -17,4 +17,4 @@ The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/
 
 
 ## Assignment 3: Option 2 art works 
-The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/master/final_assignment_3)
+The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/master/final_assignment_3/option_2)
