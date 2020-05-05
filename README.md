@@ -16,5 +16,5 @@ The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/
 The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/master/final_assignment_2/code)
 
 
-## Assignment 3: Option 2 art works 
+## Assignment 3: Option 2 (art works)
 The assignment is found [here](https://github.com/tongtongluu/ml2020spring/tree/master/final_assignment_3/option_2)
